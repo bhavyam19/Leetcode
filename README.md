@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyam19/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/bhavyam19/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/bhavyam19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyam19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bhavyam19/Leetcode/tree/master/0031-next-permutation) |
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyam19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/bhavyam19/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
