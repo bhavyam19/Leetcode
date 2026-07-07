@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhavyam19/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/bhavyam19/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/bhavyam19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/bhavyam19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyam19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2079-watering-plants](https://github.com/bhavyam19/Leetcode/tree/master/2079-watering-plants) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyam19/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bhavyam19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhavyam19/Leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhavyam19/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
