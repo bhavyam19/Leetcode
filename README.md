@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhavyam19/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/bhavyam19/Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyam19/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2079-watering-plants](https://github.com/bhavyam19/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhavyam19/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bhavyam19/Leetcode/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyam19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/bhavyam19/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhavyam19/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
