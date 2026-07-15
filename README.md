@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhavyam19/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bhavyam19/Leetcode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/bhavyam19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyam19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/bhavyam19/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhavyam19/Leetcode/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/bhavyam19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhavyam19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/bhavyam19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyam19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/bhavyam19/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/bhavyam19/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bhavyam19/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyam19/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
