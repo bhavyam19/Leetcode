@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyam19/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavyam19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavyam19/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/bhavyam19/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2079-watering-plants](https://github.com/bhavyam19/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyam19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhavyam19/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavyam19/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavyam19/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/bhavyam19/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
 |  |
 | ------- |
