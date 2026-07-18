@@ -3,7 +3,7 @@ public:
     bool storesRequired(int n, vector<int>& quantities, int ways ){
         int ans = 0;
         for(int i=0;i<quantities.size();i++){
-            ans+=ceil((double)quantities[i]/ways);
+            ans+=(quantities[i]+ways-1)/ways;
         }
         return (ans<=n);
     }
