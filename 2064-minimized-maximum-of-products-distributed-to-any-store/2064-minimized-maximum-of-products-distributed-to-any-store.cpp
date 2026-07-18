@@ -8,7 +8,7 @@ public:
         return (ans<=n);
     }
     int minimizedMaximum(int n, vector<int>& quantities) {
-        int low = 1, high = *max_element(quantities.begin(),quantities.end());
+        int low = 1, high = 1e6;
         while(low<=high){
             int mid = (low+high)/2;
             if(storesRequired(n,quantities,mid)){
