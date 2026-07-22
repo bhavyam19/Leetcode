@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhavyam19/Leetcode/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/bhavyam19/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavyam19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhavyam19/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavyam19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhavyam19/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhavyam19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/bhavyam19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyam19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavyam19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
