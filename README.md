@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavyam19/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyam19/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyam19/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/bhavyam19/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bhavyam19/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/bhavyam19/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhavyam19/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/bhavyam19/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyam19/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
 | ------- |
